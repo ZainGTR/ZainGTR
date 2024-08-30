@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ZainGTR
 - 👀 I’m interested in decentralized games/apps.
-- 🌱 I’m currently learning rell to build on chromia.
+- 🌱 I’m currently working full time on ShibaVille.
 - 💞️ I’m looking to collaborate on web games.
-- 📫 You can reach on discord zaingtr
+- 📫 You can reach on discord zaingtr or telegram @ShibaVilleDev
+- for business email dev@shibaville.io
 
 
 <!---
